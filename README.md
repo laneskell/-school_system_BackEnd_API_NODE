@@ -1,7 +1,7 @@
 
 # System School
 
-### � Objetivo do Projeto
+### Objetivo do Projeto
 
 Este é um projeto de Back-end, cujo o principal objetivo é realizar um sistema básico de gestão de dados da Labenu  e fixar os conteúdos estudados : **Express, Typescript, Node.js, Postman MySQL e Knex**.
 
@@ -54,7 +54,7 @@ Para esse projeto são modelados três entidades : **Estudante (STUDENT), Profes
 
 ✔ Remover docente de uma turma;
 
-### 🟠 Acessando o Projeto
+### Acessando o Projeto
 
 1. Após baixar, instale as bibliotecas →  npm  i ;
 2. Criar as tabelas com o Script de CreateTable.txt na seguinte  ordem:
