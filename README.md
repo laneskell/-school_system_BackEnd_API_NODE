@@ -1,33 +1,19 @@
 
-![Capas Github](https://user-images.githubusercontent.com/52434685/120907410-7dbd7000-c637-11eb-83cf-dd7ac8812e02.png)
+# System School
 
-# LabenuSystem
-
-
-
-
-<img src="https://user-images.githubusercontent.com/52434685/120907235-44d0cb80-c636-11eb-94f4-37fc890a2ceb.gif" width="100">
-
-
-**Bem-vindo a escola de programação onde a educação se reinventa!** 
-
-Na Labenu você aprende a **programar** do zero! São 6 meses de experiência focadas em
-
-**empregabilidade** para ingressar no mercado de tecnologia. **Aulas ao vivo e de onde você estiver**
-
-### 🟠 Quem Faz
-
-[Fayra Miranda](https://github.com/MirandaFayra) 
-
-[Nathalia Mesquita](https://github.com/nathaliacardoso)
-
-[Paula Vitória](https://github.com/paula-lopes)
-
-### 🟠 Objetivo do Projeto
+### � Objetivo do Projeto
 
 Este é um projeto de Back-end, cujo o principal objetivo é realizar um sistema básico de gestão de dados da Labenu  e fixar os conteúdos estudados : **Express, Typescript, Node.js, Postman MySQL e Knex**.
 
-### 🟠  Modelagem do Banco
+### Quem Faz
+
+[Kell Lanes](https://github.com/laneskell) 
+
+### Objetivo do Projeto
+
+Este é um projeto de Back-end, cujo o principal objetivo é realizar um sistema básico de gestão de dados da Labenu  e fixar os conteúdos estudados : **Express, Typescript, Node.js, Postman MySQL e Knex**.
+
+### Modelagem do Banco
 
 Para esse projeto são modelados três entidades : **Estudante (STUDENT), Professor (TEACHER)** e **Turma(CLASS)**.  Cada um com as seguintes caracteristicas :
 
@@ -40,7 +26,7 @@ Para esse projeto são modelados três entidades : **Estudante (STUDENT), Profes
 ![Untitled](https://user-images.githubusercontent.com/52434685/120907206-16eb8700-c636-11eb-936f-d5212a4c5a36.png)
 
 
-### 🟠 Requisitos Executados
+###  Requisitos Executados
 
 ✔ Criar estudante;
 
@@ -93,11 +79,9 @@ Para esse projeto são modelados três entidades : **Estudante (STUDENT), Profes
 
 
 
-### 🟠 Endpoints
+### Endpoints
 
 **Arquivo Json Postman** → 
-
-
 
 
 ### 1. Criar Estudante
