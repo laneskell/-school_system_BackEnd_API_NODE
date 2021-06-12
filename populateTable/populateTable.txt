@@ -5,16 +5,16 @@
 
 {
    "Id_Student":1,
-   "Student_Name":"Fayra",
-   "Student_Email":"fayra@gmail.com",
-   "Birth_Date":"1994-01-29",
+   "Student_Name":"Kell",
+   "Student_Email":"kell@gmail.com",
+   "Birth_Date":"1990-07-16",
    "Id_Class":2
 }
 
 {
    "Id_Student":2,
-   "Student_Name": "Nath",
-   "Student_Email":"nath@gmail.com",
+   "Student_Name": "Lanes",
+   "Student_Email":"lanes@gmail.com",
    "Birth_Date": "1991-10-13",
    "Id_Class":2
 }
@@ -61,8 +61,8 @@
 
 {
    "Id_Student":8,
-   "Student_Name":"Milena Cacau",
-    "Student_Email":"cacau@gmail.com",
+   "Student_Name":"Milena",
+    "Student_Email":"milena@gmail.com",
    "Birth_Date": "1997-06-15",
    "Id_Class":2
 }
